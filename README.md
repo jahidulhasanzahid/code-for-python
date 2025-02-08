@@ -10,3 +10,8 @@ Please feel free to give your feedback.
   Title: Share bill and tip
  On this project you can see use of input, print, variable, f-string, data formatting, comments, and some math calculation for find out total tips and each person share amount.
 </p>
+<p>
+  <b>Project 3:</b> <br>
+  Title: vehicle ride permission
+ On this project i try to showing implementation of vehicle pass permission based on vehicle height. Here i used print, input function and in else condition with Comparison operator as like between, so that minus or zero height is not acceptable. 
+</p>
