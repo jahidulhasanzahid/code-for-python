@@ -15,3 +15,8 @@ Please feel free to give your feedback.
   Title: vehicle ride permission
  On this project i try to showing implementation of vehicle pass permission based on vehicle height. Here i used print, input function and in else condition with Comparison operator as like between, so that minus or zero height is not acceptable. 
 </p>
+<p>
+  <b>Project 4:</b> <br>
+  Title: Coin Flip
+ On this project i try to be showing implementation of python random module. Concept is very simple and easy, every match we need who going to bat first, for that reason we need coin flip. This project helps to generate coin flip and guess number form user and give result. 
+</p>
