@@ -14,9 +14,9 @@ Please feel free to give your feedback. <br>
 </p>
 
 <b>Project 3:</b> <br>
-<b>Title: vehicle ride permission<b/> <br>
+<b>Title: vehicle ride permission</b> <br>
 <p>
-On this project i try to showing implementation of vehicle pass permission based on vehicle height. Here i used print, input function and in else condition with Comparison operator as like between, so that minus or zero height is not acceptable. 
+  On this project i try to showing implementation of vehicle pass permission based on vehicle height. Here i used print, input function and in else condition with Comparison operator as like between, so that minus or zero height is not acceptable. 
 </p>
 
 <b>Project 4:</b> <br>
