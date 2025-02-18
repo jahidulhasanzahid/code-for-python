@@ -30,3 +30,9 @@ On this project i try to be showing implementation of python random module. Conc
 <p>
 Rock Paper Scissors is a very popular and common game. In this python simple project, you will find simple use of function, random number section from computer and take input from user and company rock paper scissors concept for game. 
 </p>
+
+<b>Project 6:</b> <br>
+<b>Title: Quiz Game</b> <br>
+<p>
+This is simple Quiz game, but this type quiz we all are using all the time and also we did a lot of quiz on our exam day. Here i used python basic concept tuple, 2D tuple, list, input, for loop, if else condition and print functional.
+</p>
