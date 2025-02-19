@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d84f3839-0b69-4c38-96cc-d96ac24030af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/quiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/banking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.banking.executor": "Run",
     "Python.brand-name-generate.executor": "Run",
     "Python.coin-flip.executor": "Run",
     "Python.quiz.executor": "Run",
