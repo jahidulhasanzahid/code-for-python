@@ -36,3 +36,9 @@ Rock Paper Scissors is a very popular and common game. In this python simple pro
 <p>
 This is simple Quiz game, but this type quiz we all are using all the time and also we did a lot of quiz on our exam day. Here i used python basic concept tuple, 2D tuple, list, input, for loop, if else condition and print functional.
 </p>
+
+<b>Project 7:</b> <br>
+<b>Title: Banking</b> <br>
+<p>
+This is simple Banking project, on this project you can show balance, deposit balance, withdraw balance and exit the system. Here i used switch case, if else function, user input and print function as well
+</p>
