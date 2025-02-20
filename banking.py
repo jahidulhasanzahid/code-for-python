@@ -1,4 +1,5 @@
-# this is a simple banking program
+# this is a simple banking program.
+# In real life we use banking system.
 def show_balance(balance):
     print("*********************")
     print(f"Your balance is ${balance:.2f}")
