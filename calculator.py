@@ -1,7 +1,18 @@
 # Python Calculator
 
 operator = input("Enter an operator (+ - * /): ")
-numberOne = input("Enter the 1st number: ")
-numberTwo = input("Enter the 2nd number: ")
+numberOne = float(input("Enter the 1st number: "))
+numberTwo = float(input("Enter the 2nd number: "))
 
-print(int(numberOne) + int(numberTwo))
+if operator == "+":
+    result = numberOne + numberTwo
+    print(result)
+elif operator == "-":
+    result = numberOne - numberTwo
+    print(result)
+elif operator == "*":
+    result = numberOne * numberTwo
+    print(result)
+elif operator == "/":
+    result = numberOne / numberTwo
+    print(result)
