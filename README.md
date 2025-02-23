@@ -42,3 +42,9 @@ This is simple Quiz game, but this type quiz we all are using all the time and a
 <p>
 This is simple Banking project, on this project you can show balance, deposit balance, withdraw balance and exit the system. Here i used switch case, if else function, user input and print function as well
 </p>
+
+<b>Project 8:</b> <br>
+<b>Title: Basic Calculator</b> <br>
+<p>
+This is a very basic calculator program, in this program i try to show use of user input, if else if and else condition for checking operator and string, integer conversation and print function as well.
+</p>
