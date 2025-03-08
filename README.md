@@ -48,3 +48,9 @@ This is simple Banking project, on this project you can show balance, deposit ba
 <p>
 This is a very basic calculator program, in this program i try to show use of user input, if else if and else condition for checking operator and string, integer conversation and print function as well.
 </p>
+
+<b>Project 9:</b> <br>
+<b>Title: Language learning game</b> <br>
+<p>
+This is Language learning game, here you can find python programming implementation for learn most common word for daily life.
+</p>
